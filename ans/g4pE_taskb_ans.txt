@@ -1,0 +1,6 @@
+Keywords for text 1:  pag, pagerank, link, googl, import, algorithm, patent, web, vot, numer
+Keywords for text 2:  pagerank, patent, pag, link, googl, wid, numer, process, web, hyperlink
+Searching for plagiated blocks (01:27:53)
+Search ended, found 4 plagiated blocks (01:27:53)
+
+All plagiated blocks were written to log.txt

@@ -1,0 +1,4 @@
+Keywords for text 1:  probl, progr, rout, calcul, comput, us, common, reduc, effic, nod
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:55)
+Search ended, found 0 plagiated blocks (01:22:56)

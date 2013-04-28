@@ -1,0 +1,4 @@
+Keywords for text 1:  us, dyn, progr, languag, comput, solv, develop, opt, new, mathematicia
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:59)
+Search ended, found 0 plagiated blocks (01:22:59)

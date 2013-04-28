@@ -1,0 +1,4 @@
+Keywords for text 1:  solut, subprobl, opt, val, solv, dyn, comput, would, first, ma
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:54)
+Search ended, found 0 plagiated blocks (01:22:54)

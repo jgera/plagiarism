@@ -1,0 +1,6 @@
+Keywords for text 1:  appl, inher, fru, class, new, genera, instanc, expos, ancestor, orang
+Keywords for text 2:  inher, class, appl, fru, new, cod, call, genera, shar, categor
+Searching for plagiated blocks (01:22:54)
+Search ended, found 2 plagiated blocks (01:22:54)
+
+All plagiated blocks were written to log.txt

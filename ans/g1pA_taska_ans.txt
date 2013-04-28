@@ -1,0 +1,4 @@
+Keywords for text 1:  object, inher, class, propert, new, process, subclass, orient, relationship, similar
+Keywords for text 2:  inher, class, appl, fru, new, cod, call, genera, shar, categor
+Searching for plagiated blocks (01:22:48)
+Search ended, found 0 plagiated blocks (01:22:48)

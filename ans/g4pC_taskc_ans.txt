@@ -1,0 +1,4 @@
+Keywords for text 1:  document, uniq, word, elimin, identif, extract, repres, vector, step, ide
+Keywords for text 2:  term, document, vector, word, model, val, repres, inform, spac, match
+Searching for plagiated blocks (01:22:57)
+Search ended, found 0 plagiated blocks (01:22:57)

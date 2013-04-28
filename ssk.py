@@ -78,4 +78,8 @@ class SSK:
         st = self.__solve(self.s, self.t, p)
         ss = self.__solve(self.s, self.s, p)
         tt = self.__solve(self.t, self.t, p)
-        return st[p-1] / math.sqrt(ss[p-1] * tt[p-1])
+        try:
+            return st[p-1] / math.sqrt(ss[p-1] * tt[p-1])
+        except ZeroDivisionError:
+            pass
+            return 0.0

@@ -1,0 +1,4 @@
+Keywords for text 1:  us, pag, vector, quer, comput, result, repres, cosin, model, alwa
+Keywords for text 2:  term, document, vector, word, model, val, repres, inform, spac, match
+Searching for plagiated blocks (01:22:55)
+Search ended, found 0 plagiated blocks (01:22:55)

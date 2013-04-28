@@ -1,0 +1,4 @@
+Keywords for text 1:  pagerank, probabl, val, distribut, document, collect, pag, init, would, assum
+Keywords for text 2:  pag, pagerank, link, googl, patent, algorithm, web, import, numer, assign
+Searching for plagiated blocks (01:22:57)
+Search ended, found 0 plagiated blocks (01:22:57)

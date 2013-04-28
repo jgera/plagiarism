@@ -1,0 +1,4 @@
+Keywords for text 1:  probabl, us, record, giv, jo, event, correct, lik, calcul, theor
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:50)
+Search ended, found 0 plagiated blocks (01:22:50)

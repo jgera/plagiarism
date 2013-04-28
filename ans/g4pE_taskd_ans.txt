@@ -1,0 +1,4 @@
+Keywords for text 1:  search, ba, bayesia, scenar, engin, term, wa, call, sidf, eval
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:58)
+Search ended, found 0 plagiated blocks (01:22:58)

@@ -1,0 +1,6 @@
+Keywords for text 1:  probabl, theor, ba, cond, giv, prior, margin, form, two, der
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:47)
+Search ended, found 2 plagiated blocks (01:22:47)
+
+All plagiated blocks were written to log.txt

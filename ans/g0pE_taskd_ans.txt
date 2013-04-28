@@ -1,0 +1,4 @@
+Keywords for text 1:  prob, theor, import, probabl, ba, mea, vast, earlier, cond, sav
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:47)
+Search ended, found 0 plagiated blocks (01:22:47)

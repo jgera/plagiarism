@@ -2,3 +2,8 @@
 *.pdf
 
 *.txt
+!ans/*
+
+*.pyc
+
+tester.py

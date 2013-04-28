@@ -1,0 +1,6 @@
+Keywords for text 1:  pagerank, pag, algorithm, googl, numer, assign, weight, search, denot, als
+Keywords for text 2:  pag, pagerank, link, googl, patent, algorithm, web, import, numer, assign
+Searching for plagiated blocks (01:22:46)
+Search ended, found 4 plagiated blocks (01:22:46)
+
+All plagiated blocks were written to log.txt

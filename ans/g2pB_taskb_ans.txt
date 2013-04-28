@@ -1,0 +1,4 @@
+Keywords for text 1:  pagerank, googl, us, sit, pag, factor, number, popular, keyword, algorithm
+Keywords for text 2:  pag, pagerank, link, googl, patent, algorithm, web, import, numer, assign
+Searching for plagiated blocks (01:22:51)
+Search ended, found 0 plagiated blocks (01:22:52)

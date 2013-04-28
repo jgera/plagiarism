@@ -1,0 +1,6 @@
+Keywords for text 1:  vector, document, term, word, repres, spac, model, keyword, weight, match
+Keywords for text 2:  term, document, vector, word, model, val, repres, inform, spac, match
+Searching for plagiated blocks (01:22:47)
+Search ended, found 3 plagiated blocks (01:22:47)
+
+All plagiated blocks were written to log.txt

@@ -1,0 +1,4 @@
+Keywords for text 1:  probl, solut, us, sub, solv, opt, find, method, process, substructur
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:50)
+Search ended, found 0 plagiated blocks (01:22:50)

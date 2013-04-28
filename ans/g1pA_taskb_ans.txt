@@ -1,0 +1,4 @@
+Keywords for text 1:  pagerank, pag, link, syst, rank, us, giv, accord, googl, fals
+Keywords for text 2:  pag, pagerank, link, googl, patent, algorithm, web, import, numer, assign
+Searching for plagiated blocks (01:22:49)
+Search ended, found 0 plagiated blocks (01:22:49)

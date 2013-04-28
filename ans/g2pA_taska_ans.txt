@@ -1,0 +1,4 @@
+Keywords for text 1:  train, transport, car, class, inher, method, extend, could, exampl, add
+Keywords for text 2:  inher, class, appl, fru, new, cod, call, genera, shar, categor
+Searching for plagiated blocks (01:22:50)
+Search ended, found 0 plagiated blocks (01:22:51)

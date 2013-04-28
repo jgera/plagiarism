@@ -69,7 +69,7 @@ def getwords(text, langs=["english", "russian"], debug = False):
     punct = re.compile('[%s0-9\–]' % re.escape(string.punctuation))
     
     if debug: print("tokenize begin ({0})".format(timestr()))
-    words = TreebankWordTokenizer().tokenize(text);
+    words = TreebankWordTokenizer().tokenize(str(text));
     if debug: print("tokenize ended ({0})".format(timestr()))
 
     if debug: print("del short words begin ({0})".format(timestr()))

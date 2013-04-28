@@ -1,0 +1,4 @@
+Keywords for text 1:  probabl, event, theor, occur, number, tota, usua, val, relat, cond
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:53)
+Search ended, found 0 plagiated blocks (01:22:53)

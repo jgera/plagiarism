@@ -1,0 +1,6 @@
+Keywords for text 1:  probabl, event, theor, giv, us, ba, doctor, relat, wa, cond
+Keywords for text 2:  probabl, theor, ba, margin, giv, cond, bayesia, frequentist, observ, prior
+Searching for plagiated blocks (01:22:50)
+Search ended, found 1 plagiated blocks (01:22:50)
+
+All plagiated blocks were written to log.txt

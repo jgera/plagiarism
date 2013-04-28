@@ -1,0 +1,4 @@
+Keywords for text 1:  subprobl, how, conquer, solut, look, exampl, solv, experienc, opt, wit
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:48)
+Search ended, found 0 plagiated blocks (01:22:48)

@@ -1,0 +1,4 @@
+Keywords for text 1:  pagerank, link, pag, rat, googl, result, vot, webs, algorithm, actua
+Keywords for text 2:  pag, pagerank, link, googl, patent, algorithm, web, import, numer, assign
+Searching for plagiated blocks (01:22:51)
+Search ended, found 0 plagiated blocks (01:22:51)

@@ -1,0 +1,4 @@
+Keywords for text 1:  class, circl, shap, public, ava, characterist, offic, inher, hous, subclass
+Keywords for text 2:  inher, class, appl, fru, new, cod, call, genera, shar, categor
+Searching for plagiated blocks (01:22:45)
+Search ended, found 0 plagiated blocks (01:22:45)

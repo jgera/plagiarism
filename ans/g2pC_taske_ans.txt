@@ -1,0 +1,4 @@
+Keywords for text 1:  solv, probl, us, progr, subprobl, dyn, solut, opt, approach, memoiz
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:53)
+Search ended, found 0 plagiated blocks (01:22:54)

@@ -1,0 +1,6 @@
+Keywords for text 1:  progr, opt, subprobl, us, probl, sa, mea, plan, dyn, term
+Keywords for text 2:  opt, subprobl, comput, probl, solut, progr, solv, us, need, overlap
+Searching for plagiated blocks (01:22:56)
+Search ended, found 2 plagiated blocks (01:22:56)
+
+All plagiated blocks were written to log.txt
