@@ -17,6 +17,8 @@ To search for plagiated documents in google:
     main.py localfile.pdf
     main.py http://example.ru/somefile.txt
     main.py ftp://example.com/somefile.pdf
+    
+Press Ctrl-C to skip any file you don't want to test
 
 To compare two documents:
 

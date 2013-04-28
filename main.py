@@ -75,9 +75,6 @@ def main(argc, argv):
             if text2 == None:
                 print("This file appears to be invalid .pdf file")
                 continue
-            if len(text2) > len(text) * 5:
-                print("This file appears to be too huge, ignoring")
-                continue
             keywords2 = getkeywords(text2, langs=langs)
             print("Keywords: ", ", ".join(keywords2))
             print("Searching for plagiated blocks ({0})".format(timestr()))
