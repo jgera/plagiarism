@@ -1,0 +1,4 @@
+pdfminer3k
+distribute
+nltk
+bs4
