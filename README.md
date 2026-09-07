@@ -1,7 +1,7 @@
 plagiarism
 ==========
 
-Requirements:
+## Requirements:
 * Python 3.3.1
 * pdfminer3k: https://pypi.python.org/pypi/pdfminer3k/
 * distribute: https://pypi.python.org/pypi/distribute
@@ -9,7 +9,12 @@ Requirements:
 * nltk-data (stopwords): http://nltk.org/data.html
 * bs4: http://www.crummy.com/software/BeautifulSoup/
 
-Usage:
+To install all the dependencies, run
+```
+pip install -r requirements.txt
+```
+
+## Usage:
 
 To search for plagiated documents in google:
 
